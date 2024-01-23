@@ -1,0 +1,3 @@
+Iam Amrutha 
+This is my first text file in git
+Iam using the concept of git stash
